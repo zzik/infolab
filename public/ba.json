@@ -1,0 +1,73 @@
+{
+    "menu":[
+        {
+            "pathname":"home",
+            "title":"Početna",
+            "route":"/",
+            "subroutes":[]
+        },
+        {
+            "pathname":"about",
+            "title":"O Nama",
+            "route":"/about",
+            "subroutes":[]
+        },
+        {
+            "pathname":"products",
+            "title":"Proizvodi",
+            "route":"/products",
+            "subroutes":[
+                {
+                    "id": 0,
+                    "name": "Robno-Materijalno"
+                },
+                {
+                    "id": 1,
+                    "name": "Finansijsko Knjigovodstvo"
+                },
+                {
+                    "id": 2,
+                    "name": "Obračun plata, Virmani"
+                }
+            ]
+        }
+    ],
+    "quote":[
+
+    ],
+    "business":[
+
+    ],
+    "collab":[
+
+    ],
+    "products":[
+        {
+            "id": 0,
+            "name": "Robno-Materijalno",
+            "specialty": "Veleprodaja, Maloprodaja, Proizvodnja, Zalihe, Fakture, Izvještavanje.",
+            "description": "Jednostavan sistem unosa ulazno-izlaznih dokumenata."
+        },
+        {
+            "id": 1,
+            "name": "Finansijsko Knjigovodstvo",
+            "specialty": "Stanje kupaca i dobavljača, Bruto bilansi, Bilans stanja, Bilans uspjeha.",
+            "description": "Knjiženje finansijskih naloga, velike mogućnosti izvještavanja."
+        },
+        {
+            "id": 2,
+            "name": "Obračun plata, Virmani",
+            "specialty": "Jednostavan obračun plata, Platna lista, Mip, Gip, Specifikacija, Auto virmani.",
+            "description": "Knjiženje u finansije, Zakonski obrasci (Federacija,RS,Brčko distrikt)."
+        }
+    ],
+    "about":[
+
+    ],
+    "demo":[
+
+    ],
+    "contact":[
+
+    ]
+}
