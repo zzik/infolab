@@ -1,3 +1,5 @@
+// ? blooper component
+
 import { useRouteError } from "react-router-dom"
 
 const ErrorPage = () => {

@@ -1,3 +1,6 @@
+// ? product fetching route component
+// TODO: refactor
+
 import { useLoaderData } from "react-router-dom";
 import { getProducts } from "../utils";
 
